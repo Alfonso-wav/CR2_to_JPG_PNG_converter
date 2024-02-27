@@ -15,7 +15,7 @@ quality = int(input("What quality do you want, from 0 to 100?"))
 if quality >= 0 and quality <= 100:
     print("Valid quality:", quality)
 else:
-    print("Please choose a number between 0 and 100") 
+    print("Please choose a number between 0 and 100.") 
 
 
 #Input of the extension by the user
