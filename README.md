@@ -7,8 +7,8 @@ Just in four easy steps, you don't need any programming background to execute it
     >pip install -r requirements.txt
 
 2. Add the R2C files to the '/img' folder
-3. Run 'coverter.ipynb' which is located in '/src'
-4. You will find the .jpgs in 'processed_img' which will be created as you execute the script
+3. Run 'app.ipynb' which is located in '/src'
+4. You will find the .jpgs in 'processed_img' which will be created as you execute the script and answer the questions displayed in the terminal
 
 ## Willing to contribute?
 Front-end development is welcome, reach me out or just pull request :)
