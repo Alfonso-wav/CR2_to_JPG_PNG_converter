@@ -5,7 +5,9 @@ Just in four easy steps, you don't need any programming background to execute it
 ## Instructions:
 1. Open up the terminal, paste and execute the following:
     >pip install -r requirements.txt
+
     >cd src
+    
     >python interface.py
 
 2. Choose the directory in your computer where you have your raw images
