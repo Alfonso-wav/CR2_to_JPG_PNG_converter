@@ -6,7 +6,7 @@ Just in four easy steps, you don't need any programming background to execute it
 1. Open up the terminal, paste and execute the following:
 
    
-    >cd R2C_to_JPG_converter
+    >cd R2C_to_JPG_PNG_converter
     
     >pip install -r requirements.txt (only the first time)
 
