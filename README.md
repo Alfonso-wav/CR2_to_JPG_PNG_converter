@@ -4,17 +4,21 @@ With this converter you can get your jpg as fast as a lightning bolt, with no li
 Just in four easy steps, you don't need any programming background to execute it, just follow the list above!
 ## Instructions:
 1. Open up the terminal, paste and execute the following:
-    >pip install -r requirements.txt
+
+   
+    >cd R2C_to_JPG_converter
+    
+    >pip install -r requirements.txt (only the first time)
 
     >cd src
     
     >python interface.py
 
-2. Choose the directory in your computer where you have your raw images
-3. Choose the destination folder where you want your converted images
-4. Choose the Quality
-5. Choose the file type
-6. Press the button :)
+3. Choose the directory in your computer where you have your raw images
+4. Choose the destination folder where you want your converted images
+5. Choose the Quality
+6. Choose the file type
+7. Press the button :)
 
 
 ## Willing to contribute?
